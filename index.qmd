@@ -1,5 +1,5 @@
 ---
-title: "Julie's Plantopia"
+title: "Julie Shu Han Gan"
 image: media/headshot.jpg
 toc: false
 about: 
@@ -8,7 +8,7 @@ format: html
 editor: visual
 ---
 
-## Julie Shu Han Gan
+## About
 
 I'm a 4th year PhD candidate in the Kevin Griffin Lab at Columbia University's Ecology, Evolution & Environmental Biology Department. My research projects spans the fields of plant-ecophysiology, global change biology, cosystem ecology, modeling, and remote sensing.
 
