@@ -17,9 +17,15 @@ website:
     left:
       - text: "Home"
         href: index.qmd
+      - text: "Home (Fun)"
+        href: Plantopia.qmd
+      - text: "Publications"
+        href: Publications.qmd
     right: 
       - icon: github
         href: https://github.com/moricandia/jshgan
+      - icon: mortarboard-fill
+        href: https://scholar.google.com/citations?user=KSmzX-IAAAAJ&hl=en&oi=ao
   page-footer: 
     center: "Copyright 2025, Julie Gan"
     background: secondary
