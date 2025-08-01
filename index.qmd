@@ -1,6 +1,6 @@
 ---
 title: "Julie Shu Han Gan"
-image: media/headshot.jpg
+image: media/headshot.JPG
 toc: false
 about: 
   template: marquee
