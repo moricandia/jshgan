@@ -4,21 +4,21 @@
     "href": "index.html",
     "title": "Julie’s Plantopia",
     "section": "",
-    "text": "I’m a 4th year PhD candidate in the Kevin Griffin Lab at Columbia University’s Ecology, Evolution & Environmental Biology Department. My research projects spans the fields of plant-ecophysiology, global change biology, ecosystem ecology, modeling, and remote sensing."
+    "text": "I’m a 4th year PhD candidate in the Kevin Griffin Lab at Columbia University’s Ecology, Evolution & Environmental Biology Department. My research projects spans the fields of plant-ecophysiology, global change biology, cosystem ecology, modeling, and remote sensing."
   },
   {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
+    "objectID": "index.html#julie-shu-han-gan",
+    "href": "index.html#julie-shu-han-gan",
     "title": "Julie’s Plantopia",
     "section": "",
-    "text": "I’m a 4th year PhD candidate in the Kevin Griffin Lab at Columbia University’s Ecology, Evolution & Environmental Biology Department. My research projects spans the fields of plant-ecophysiology, global change biology, ecosystem ecology, modeling, and remote sensing."
+    "text": "I’m a 4th year PhD candidate in the Kevin Griffin Lab at Columbia University’s Ecology, Evolution & Environmental Biology Department. My research projects spans the fields of plant-ecophysiology, global change biology, cosystem ecology, modeling, and remote sensing."
   },
   {
-    "objectID": "index.html#publications",
-    "href": "index.html#publications",
+    "objectID": "index.html#education",
+    "href": "index.html#education",
     "title": "Julie’s Plantopia",
-    "section": "Publications",
-    "text": "Publications\nCooley, S. S., Pinto, N., Becerra, M., Alvarado, J. W. V., Fahlen, J. C., Rivera, O., Fricker, G. A., Dantas, A. R. D. L. R., Aguilar-Amuchastegui, N., Reygadas, Y., Gan, J., DeFries, R., & Menge, D. N. L. (2024). Combining spaceborne lidar from the Global Ecosystem Dynamics Investigation with local knowledge for monitoring fragmented tropical landscapes: A case study in the forest–agriculture interface of Ucayali, Peru. Ecology and Evolution, 14(8), e70116. https://doi.org/10.1002/ece3.70116\nGan, S. H., & Sage, R. F. (2024). Stomatal response to VPD in C4 plants with different biochemical sub-pathways. Plant, Cell & Environment, 47(9), 3466–3477. https://doi.org/10.1111/pce.14952\nGan, S. H., McTavish, M. J., Bourchier, R. S., & Smith, S. M. (2023). Soil grit influences the effects of earthworms (Lumbricus terrestris) on seed damage. Applied Soil Ecology, 185, 104807. https://doi.org/10.1016/j.apsoil.2023.104807"
+    "section": "Education",
+    "text": "Education\nColumbia University | New York City, NY, United States\nPhD in Ecology & Evolutionary Biology | Sept 2022 - now\nUniversity of Toronto | Toronto, Ontario, Canada\nMSc in Ecoloty & Evolutionary Biology | Sept 2021 - Sept 2022\nBSc (Hons) in Ecology & Evolutionary Biology | Sept 2017 - June 2021"
   },
   {
     "objectID": "index.html#fiancé",
@@ -33,5 +33,12 @@
     "title": "Julie’s Plantopia",
     "section": "Pets",
     "text": "Pets\nHuahua"
+  },
+  {
+    "objectID": "Publications.html",
+    "href": "Publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Cooley, S. S., Pinto, N., Becerra, M., Alvarado, J. W. V., Fahlen, J. C., Rivera, O., Fricker, G. A., Dantas, A. R. D. L. R., Aguilar-Amuchastegui, N., Reygadas, Y., Gan, J., DeFries, R., & Menge, D. N. L. (2024). Combining spaceborne lidar from the Global Ecosystem Dynamics Investigation with local knowledge for monitoring fragmented tropical landscapes: A case study in the forest–agriculture interface of Ucayali, Peru. Ecology and Evolution, 14(8), e70116. https://doi.org/10.1002/ece3.70116\nGan, S. H., & Sage, R. F. (2024). Stomatal response to VPD in C4 plants with different biochemical sub-pathways. Plant, Cell & Environment, 47(9), 3466–3477. https://doi.org/10.1111/pce.14952\nGan, S. H., McTavish, M. J., Bourchier, R. S., & Smith, S. M. (2023). Soil grit influences the effects of earthworms (Lumbricus terrestris) on seed damage. Applied Soil Ecology, 185, 104807. https://doi.org/10.1016/j.apsoil.2023.104807"
   }
 ]
