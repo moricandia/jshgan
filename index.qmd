@@ -4,8 +4,8 @@ format: html
 editor: visual
 ---
 
-## About me 
+## About me
 
-I'm a soon-to-be 4th year PhD candidate working in the Kevin Griffin Lab at Columbia University's Ecology, Evolution & Environmental Biology Department. My research projects spans the fields of plant-ecophysiology, global change biology, ecosystem ecology, modeling, and remote sensing.
+I'm a 4th year PhD candidate working in the Kevin Griffin Lab at Columbia University's Ecology, Evolution & Environmental Biology Department. My research projects spans the fields of plant-ecophysiology, global change biology, ecosystem ecology, modeling, and remote sensing.
 
-## Publications 
+## Publications
