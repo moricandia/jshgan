@@ -1,0 +1,45 @@
+/*-- scss:defaults --*/
+
+// Colors
+/* Found on https://coolors.co/palettes/trending */
+$gre-1: #D4E09B;
+$gre-2: #F6F4D2;
+$gre-3: #CBDFBD;
+$org-1: #F19C79;
+$url-red: #A44A3F;
+
+/* generally useful other colors */
+$cream: #F4F3EE;
+$charcoal: #191919;
+$gray-1: #8A817C;
+$gray-2: #BCB8B1;
+$gray-3: #d6d6d6;
+
+// Fonts
+$font-size: 25px;
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap');
+
+// Base document colors
+$navbar-bg: $gre-1; // navbar
+$navbar-fg: $charcoal; // navbar foreground elements
+$navbar-hl: $url-red; // highlight color when hovering on a page
+$sidebar-bg: $gre-1; // sidebar
+$sidebar-fg: $charcoal; // sidebar foreground elements
+$body-bg: $gre-2; // page background
+$body-color: $charcoal; // page text
+$footer-bg: $gre-3; // footer
+$footer-fg: $charcoal; // footer text
+$link-color: $url-red; // hyperlinks
+
+// Code text
+$code-bg: $gray-2; // inline code background color
+$code-color: $charcoal; // inline code text color
+$code-block-bg: $gray-2; // code block background color
+
+/*-- scss:rules --*/
+
+// Underline URLs
+.reveal .slide a { text-decoration: underline; }
+
+// Improve background contrast for code chunk ouput
+pre code:not(.sourceCode) { background-color: $gray-2; }

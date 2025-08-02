@@ -1,0 +1,45 @@
+/*-- scss:defaults --*/
+
+// Colors
+/* Found on https://coolors.co/palettes/trending */
+$org-1: #EDAFB8;
+$org-2: #F7E1D7;
+$mint-1: #DEDBD2;
+$mint-2: #B0C4B1;
+$url-blue: #4A5759;
+
+/* generally useful other colors */
+$cream: #F4F3EE;
+$charcoal: #191919;
+$gray-1: #8A817C;
+$gray-2: #BCB8B1;
+$gray-3: #d6d6d6;
+
+// Fonts
+$font-size: 25px;
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap');
+
+// Base document colors
+$navbar-bg: $mint-2; // navbar
+$navbar-fg: $org-2; // navbar foreground elements
+$navbar-hl: $org-1; // highlight color when hovering on a page
+$sidebar-bg: $mint-2; // sidebar
+$sidebar-fg: $org-2; // sidebar foreground elements
+$body-bg: $url-blue; // page background
+$body-color: $mint-1; // page text
+$footer-bg: $org-1; // footer
+$footer-fg: $org-1; // footer text
+$link-color: $org-1; // hyperlinks
+
+// Code text
+$code-bg: $gray-2; // inline code background color
+$code-color: $charcoal; // inline code text color
+$code-block-bg: $gray-2; // code block background color
+
+/*-- scss:rules --*/
+
+// Underline URLs
+.reveal .slide a { text-decoration: underline; }
+
+// Improve background contrast for code chunk ouput
+pre code:not(.sourceCode) { background-color: $gray-2; }
